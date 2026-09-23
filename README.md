@@ -1,6 +1,8 @@
 # About
 
-# Themes
+I am an independent security and compliance engineer, working on AWS-aligned, APAC-focused security & compliance automation.
+
+# A few projects
 - AU/NZ - ASEAN Information Security Standards and Frameworks
   - Australia
      - AU Information Security Manual (ISM) interactive explorer tool https://ismexplorer.org
