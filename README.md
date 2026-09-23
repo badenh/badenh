@@ -1,7 +1,8 @@
 # About
 
 I am an independent-ish security and compliance engineer.
-I generally work on work on AWS-aligned and/or APAC-focused security & compliance automation.
+
+Recently I'm working on AWS-aligned and/or APAC-focused security & compliance automation.
 
 # A few projects
 - AU/NZ & Southeast Asia (ASEAN) Information Security Standards and Frameworks
