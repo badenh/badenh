@@ -31,7 +31,7 @@ Recently I'm working on AWS-aligned and/or APAC-focused security & compliance au
     - 🇲🇾 Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
 
 - AWS Region-Service Availability
-  - AWS Service Matrix: https://awsservicematrix.info
+  - ASM: AWS Service Matrix https://awsservicematrix.info
 
 - Artificial Intelligence Standards and Frameworks
   - AIUC1explorer: AIUC-1 interactive explorer tool https://auic1explorer.org
