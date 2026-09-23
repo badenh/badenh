@@ -14,7 +14,7 @@ I generally work on work on AWS-aligned and/or APAC-focused security & complianc
      - NZ Information Security Manual (NZISM) control set in OSCAL https://github.com/badenh/nzism-oscal
   - 🇸🇬 Singapore
     - ICT&SS (IM8 successor) control set in OSCAL https://github.com/badenh/sg-ictss-oscal
-    - SG OSPAR control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal 
+    - Association of Banks in Singapore's Control Objectives and Procedures for Outsourced Service Providers (OSPAR) control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal 
   - 🇲🇾 Malaysia
     - National Cyber Security Baseline (NCSB) control set in OSCAL https://github.com/badenh/my-ncsb-oscal  
   - 🇹🇭 Thailand
