@@ -20,9 +20,9 @@ I am an independent security and compliance engineer, working on AWS-aligned, AP
   - Hong Kong
     - https://github.com/badenh/hk-s17-baseline-itsecpol-oscal 
 
-- AWS Landing Zone Accelerator
-  - LZA Compliance Framework Impact Tracker (LZACFIT)
-  - LZAtracer
+- AWS Landing Zone Accelerator (LZA)
+  - LZA Compliance Framework Impact Tracker tool https://lzacfit.org
+  - LZAtracer LZA Variant Comparison tool https://lzatracer.net
   - Comverter for CloudFormation Landing Zones to Landing Zone Accelerator Universal Configuration Stacks https://github.com/badenh/cfn2lza
     - Thailand Secure Landing Zone in LZA UC https://github.com/badenh/thailand-cfn-slz-xnv-lza
     - Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
