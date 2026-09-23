@@ -19,7 +19,7 @@ Recently I'm working on AWS-aligned and/or APAC-focused security & compliance au
   - 🇲🇾 Malaysia
     - National Cyber Security Baseline (NCSB) control set in OSCAL https://github.com/badenh/my-ncsb-oscal  
   - 🇹🇭 Thailand
-    - NCSC Cybersecurity Standards for Cloud Systems (BE 2567/2024)c ontrol set in OSCAL https://github.com/badenh/th-ncsa-be2567-oscal 
+    - NCSC Cybersecurity Standards for Cloud Systems (BE 2567/2024) control set in OSCAL https://github.com/badenh/th-ncsa-be2567-oscal 
   - 🇭🇰 Hong Kong
     - S17 Baseline IT Security Policy control set in OSCAL https://github.com/badenh/hk-s17-baseline-itsecpol-oscal 
 
