@@ -3,10 +3,11 @@
 # Themes
 - AU/NZ - ASEAN Information Security Standards and Frameworks
   - Australia
-     - https://ismexplorer.org
+     - Information Security Manual (ISM) interactive explorer tool https://ismexplorer.org
+     - AESCSF in OSCAL https://github.com/badenh/aescsf-oscal
   - New Zealand
      - https://ditchdistance.org
-     - NZISM in OSCAL 
+     - NZISM in OSCAL https://github.com/badenh/nzism-oscal
   - Singapore
   - Malaysia
   - Thailand
