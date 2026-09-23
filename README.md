@@ -25,7 +25,7 @@ Recently I'm working on AWS-aligned and/or APAC-focused security & compliance au
 
 - ☁️ AWS Landing Zone Accelerator (LZA)
   - LZACFIT: LZA Compliance Framework Impact Tracker tool https://lzacfit.org
-  - LZAtracer: LZA Variant Comparison tool https://lzatracer.net
+  - LZAtracer: LZA UC vs other LZA variant comparison tool https://lzatracer.net
   - cfn2lza: Converter for CloudFormation-based Landing Zones to Landing Zone Accelerator Universal Configuration stacks https://github.com/badenh/cfn2lza
     - 🇹🇭 Thailand Secure Landing Zone in LZA UC https://github.com/badenh/thailand-cfn-slz-xnv-lza
     - 🇲🇾 Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
