@@ -4,7 +4,7 @@ I am an independent-ish security and compliance engineer.
 
 Recently I'm working on AWS-aligned and/or APAC-focused security & compliance automation.
 
-# A few projects
+Here's a few of my projects.
 
 ## 🔐 AU/NZ & Southeast Asia (ASEAN) Information Security Standards and Frameworks
   - 🇦🇺 Australia
@@ -34,7 +34,7 @@ Recently I'm working on AWS-aligned and/or APAC-focused security & compliance au
     - 🇲🇾 Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
   - `lzareplgen`: replacements file generator for LZA UC https://github.com/badenh/lzaucreplgen
 - AWS Region-Service Availability
-  - ASM: AWS Service Matrix https://awsservicematrix.info
+  - ASM: AWS Service Matrix https://awsservicematrix.info - there's a few of these around but this was built using a combination of different sources and to get a feed of reliable information to bootstrap other tools
 
 ## 🪄 Artificial Intelligence Standards and Frameworks
   - AIUC1explorer: AIUC-1 interactive explorer tool https://auic1explorer.org
