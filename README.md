@@ -37,5 +37,5 @@ Here's a few of my projects.
   - ARSM: AWS Region-Service Matrix https://awsservicematrix.info - there's a few of these around but this was built using a combination of different sources and to get a feed of reliable information to bootstrap other tools
 
 ## 🪄 Artificial Intelligence Standards and Frameworks
-  - AIUC1explorer: AIUC-1 interactive explorer tool https://auic1explorer.org
+  - AIUC1explorer: AIUC-1 interactive explorer tool https://aiuc1explorer.org
     
