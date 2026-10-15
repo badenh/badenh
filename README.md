@@ -26,7 +26,6 @@ Here's a few of my projects.
 
 ## ☁️ AWS 
 - Landing Zone Accelerator (LZA)
-  - LZACFIT: LZA Compliance Framework Impact Tracker tool https://lzacfit.org
   - LZAtracer: LZA UC vs other LZA variant comparison tool https://lzatracer.net
      - :robot: CLI version https://github.com/badenh/lzatracer-cli or https://www.npmjs.com/package/@lzatracer/cli (works offline/private repo)
   - `cfn2lza`: Converter for CloudFormation-based Landing Zones to Landing Zone Accelerator Universal Configuration stacks https://github.com/badenh/cfn2lza
