@@ -33,8 +33,9 @@ Here's a few of my projects.
     - 🇲🇾 Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
   - `lzareplgen`: replacements file generator for LZA UC https://github.com/badenh/lzaucreplgen
 - AWS Region-Service Availability
-  - ARSM: AWS Region-Service Matrix https://awsservicematrix.info - there's a few of these around but this was built using a combination of different sources and to get a feed of reliable information to bootstrap other tools
+  - ARSM: AWS Region-Service Matrix https://arsm.info - there's a few of these around but this was built using a specific combination of different AWS sources and to get a feed of reliable information to bootstrap other tools
 
 ## 🪄 Artificial Intelligence Standards and Frameworks
+- AIUC-1
   - AIUC1explorer: AIUC-1 interactive explorer tool https://aiuc1explorer.org
     
