@@ -1,6 +1,6 @@
 # About
 
-I am an independent-ish security and compliance engineer.
+I am an independent-ish security tooling and compliance engineer.
 
 Recently I'm working on AWS-aligned and/or APAC-focused security & compliance automation.
 
