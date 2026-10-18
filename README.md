@@ -38,4 +38,5 @@ Here's a few of my projects.
 ## 🪄 Artificial Intelligence Standards and Frameworks
 - AIUC-1
   - AIUC1explorer: AIUC-1 interactive explorer tool https://aiuc1explorer.org
+  - AIUC-1 in OSCAL https://github.com/badenh/aiuc1-oscal/
     
