@@ -24,8 +24,8 @@ Here's a few of my projects.
   - 🇭🇰 Hong Kong
     - S17 Baseline IT Security Policy control set in OSCAL https://github.com/badenh/hk-s17-baseline-itsecpol-oscal
    - Japan
-     - OSCAL rendering of the English translation of Japan's Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies (FY2023) (政府機関等のサイバーセキュリティ 対策のための統一基準, 令和5年度版)
-
+     - OSCAL rendering of the English translation of Japan's Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies (FY2023) (政府機関等のサイバーセキュリティ 対策のための統一基準, 令和5年度版) https://github.com/badenh/jp-nco-kijyun-cmgara-fy23-oscal
+    
 ## ☁️ AWS 
 - Landing Zone Accelerator (LZA)
   - LZAtracer: LZA UC vs other LZA variant comparison tool https://lzatracer.net
