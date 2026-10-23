@@ -18,12 +18,12 @@ Here's a few of my projects.
     - ICT&SS Policy Reform (IM8 successor) control set in OSCAL https://github.com/badenh/sg-ictss-oscal
     - Association of Banks in Singapore's Control Objectives and Procedures for Outsourced Service Providers (OSPAR) control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal 
   - 🇲🇾 Malaysia
-    - National Cyber Security Baseline (NCSB) control set in OSCAL https://github.com/badenh/my-ncsb-oscal  
+    - National Cyber Security Baseline (NCSB) — Garis Asas Keselamatan Siber Negara in OSCAL https://github.com/badenh/my-ncsb-oscal  
   - 🇹🇭 Thailand
     - NCSC Cybersecurity Standards for Cloud Systems (BE 2567/2024) control set in OSCAL https://github.com/badenh/th-ncsa-be2567-oscal 
   - 🇭🇰 Hong Kong
     - S17 Baseline IT Security Policy control set in OSCAL https://github.com/badenh/hk-s17-baseline-itsecpol-oscal
-  - Japan
+   - Japan
      - OSCAL rendering of the English translation of Japan's Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies (FY2023) (政府機関等のサイバーセキュリティ 対策のための統一基準, 令和5年度版)
 
 ## ☁️ AWS 
