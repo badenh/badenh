@@ -28,9 +28,12 @@ Here's a few of my projects.
     
 ## ☁️ AWS 
 - Landing Zone Accelerator (LZA)
-  - LZAtracer: LZA UC vs other LZA variant comparison tool https://lzatracer.net
-     - :robot: CLI version https://github.com/badenh/lzatracer-cli or https://www.npmjs.com/package/@lzatracer/cli (works offline/private repo)
-  - `cfn2lza`: Converter for CloudFormation-based Landing Zones to Landing Zone Accelerator Universal Configuration stacks https://github.com/badenh/cfn2lza
+  - LZAtracer: LZA UC vs other LZA variant comparison tool
+     - https://lzatracer.net
+     - :robot: CLI version (NodeJS) https://github.com/badenh/lzatracer-cli
+     - :robot: packaged CLI version via npmjs https://www.npmjs.com/package/@lzatracer/cli (works offline/private repo)
+  - `cfn2lza`: Converter for CloudFormation-based Landing Zones to Landing Zone Accelerator Universal Configuration stacks
+    - https://github.com/badenh/cfn2lza
     - 🇹🇭 Thailand Secure Landing Zone in LZA UC https://github.com/badenh/thailand-cfn-slz-xnv-lza
     - 🇲🇾 Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
   - `lzareplgen`: replacements file generator for LZA UC https://github.com/badenh/lzaucreplgen
