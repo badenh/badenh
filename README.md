@@ -40,7 +40,7 @@ Here's a few of my projects.
 - AWS Region-Service Availability
   - ARSM: AWS Region-Service Matrix https://arsm.info - there's a few of these around but this was built using a specific combination of different AWS sources and to get a feed of reliable information to bootstrap other tools
 - AWS Controls Catalog
-  - AWSCtrlCatLens https://awsctrlcatlens.com/ - automatically-refreshed, machine-generated index over the AWS Control Catalog. AWS exposes a list of controls through controlcatalog:ListControls, but not the questions that security and compliance engineers and cloud architects actually ask: which controls are deployable in which region, which controls govern this service, how do controls map to security frameworks, which controls share a single intent but multiple sources?
+  - AWSCtrlCatLens https://awsctrlcatlens.com/ - automatically-refreshed, machine-generated index over the AWS Control Catalog. AWS exposes a list of controls through `controlcatalog:ListControls`, but not the questions that security and compliance engineers and cloud architects actually ask: which controls are deployable in which region, which controls govern this service, how do controls map to security frameworks, which controls share a single intent but multiple sources?
         
 ## 🪄 Artificial Intelligence Standards and Frameworks
 - AIUC-1
