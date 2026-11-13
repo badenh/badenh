@@ -20,7 +20,7 @@ Here's a few of my projects.
   - 🇲🇾 Malaysia
     - National Cyber Security Baseline (NCSB) — Garis Asas Keselamatan Siber Negara in OSCAL https://github.com/badenh/my-ncsb-oscal  
   - 🇹🇭 Thailand
-    - NCSC Cybersecurity Standards for Cloud Systems (BE 2567/2024) control set in OSCAL https://github.com/badenh/th-ncsa-be2567-oscal 
+    - NCSC Cybersecurity Standards for Cloud Systems (BE 2567/2024) - มาตรฐานความมั่นคงปลอดภัยไซเบอร์ระบบคลาวด์ของ สกมช. พ.ศ. 2567 control set in OSCAL https://github.com/badenh/th-ncsa-be2567-oscal 
   - 🇭🇰 Hong Kong
     - S17 Baseline IT Security Policy control set in OSCAL https://github.com/badenh/hk-s17-baseline-itsecpol-oscal
    - 🇯🇵 Japan
