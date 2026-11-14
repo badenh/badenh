@@ -16,7 +16,8 @@ Here's a few of my projects.
      - NZ Information Security Manual (NZISM) control set in OSCAL https://github.com/badenh/nzism-oscal
   - 🇸🇬 Singapore
     - ICT&SS Policy Reform (IM8 successor) control set in OSCAL https://github.com/badenh/sg-ictss-oscal
-    - Association of Banks in Singapore's Control Objectives and Procedures for Outsourced Service Providers (OSPAR) control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal 
+    - Association of Banks in Singapore's Control Objectives and Procedures for Outsourced Service Providers (OSPAR) control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal
+    - Monetary Authority of Singapore's (MAS) Technology Risk Management Guidelines (TRMG) in OSCAL https://github.com/badenh/sg-mas-trmg-oscal 
   - 🇲🇾 Malaysia
     - National Cyber Security Baseline (NCSB) — Garis Asas Keselamatan Siber Negara in OSCAL https://github.com/badenh/my-ncsb-oscal  
   - 🇹🇭 Thailand
