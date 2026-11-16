@@ -16,15 +16,16 @@ Here's a few of my projects.
      - NZ Information Security Manual (NZISM) control set in OSCAL https://github.com/badenh/nzism-oscal
   - 🇸🇬 Singapore
     - ICT&SS Policy Reform (IM8 successor) control set in OSCAL https://github.com/badenh/sg-ictss-oscal
-    - Association of Banks in Singapore's Control Objectives and Procedures for Outsourced Service Providers (OSPAR) control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal
-    - Monetary Authority of Singapore's (MAS) Technology Risk Management Guidelines (TRMG) in OSCAL https://github.com/badenh/sg-mas-trmg-oscal 
+    - Association of Banks in Singapore's (ABS) Control Objectives and Procedures for Outsourced Service Providers (OSPAR) control set in OSCAL https://github.com/badenh/sg-ospar2.0-oscal
+    - Monetary Authority of Singapore's (MAS) Technology Risk Management Guidelines (TRMG) in OSCAL https://github.com/badenh/sg-mas-trmg-oscal
+    - CyberSecurity Agency of Singapore's Cybersecurity Code of Practice for Critical Information Infrastructure (CCoP CII) in OSCAL https://github.com/badenh/sg-csa-ccop-cii-oscal
   - 🇲🇾 Malaysia
     - National Cyber Security Baseline (NCSB) — Garis Asas Keselamatan Siber Negara in OSCAL https://github.com/badenh/my-ncsb-oscal  
   - 🇹🇭 Thailand
     - NCSC Cybersecurity Standards for Cloud Systems (BE 2567/2024) - มาตรฐานความมั่นคงปลอดภัยไซเบอร์ระบบคลาวด์ของ สกมช. พ.ศ. 2567 control set in OSCAL https://github.com/badenh/th-ncsa-be2567-oscal 
   - 🇭🇰 Hong Kong
     - S17 Baseline IT Security Policy control set in OSCAL https://github.com/badenh/hk-s17-baseline-itsecpol-oscal
-   - 🇯🇵 Japan
+  - 🇯🇵 Japan
      - OSCAL rendering of the English translation of Japan's Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies (FY2023) (政府機関等のサイバーセキュリティ 対策のための統一基準, 令和5年度版) https://github.com/badenh/jp-nco-kijyun-cmgara-fy23-oscal
     
 ## ☁️ AWS 
