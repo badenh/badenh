@@ -6,7 +6,7 @@ Recently I'm working on AWS-aligned and/or APAC-focused security & compliance au
 
 Here's a few of my projects.
 
-## 🔐 AU/NZ & Southeast Asia (ASEAN) Information Security Standards and Frameworks
+## 🔐 AU/NZ & APAC Information Security Standards and Frameworks
   - 🇦🇺 Australia
      - ISMexplorer: AU Information Security Manual (ISM) interactive explorer tool https://ismexplorer.org
      - DitchDistance: AU vs NZ Information Security Manual(s) interactive explorer tool https://ditchdistance.org
