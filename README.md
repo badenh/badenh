@@ -42,6 +42,7 @@ Here's a few of my projects.
   - `lzareplgen`: replacements file generator for LZA UC https://github.com/badenh/lzaucreplgen
 - AWS Region-Service Availability
   - ARSM: AWS Region-Service Matrix https://arsm.info - there's a few of these around but this was built using a specific combination of different AWS sources and to get a feed of reliable information to bootstrap other tools
+   - AWS Local Zones Analysis https://gist.github.com/badenh/a86b8fba121bea8f3f0330c25dc7b610
 - AWS Controls Catalog
   - AWSCtrlCatLens https://awsctrlcatlens.com/ - automatically-refreshed, machine-generated index over the AWS Control Catalog API with region, service and framework views and analytics.
         
