@@ -40,6 +40,7 @@ Here's a few of my projects.
     - 🇹🇭 Thailand Secure Landing Zone in LZA UC https://github.com/badenh/thailand-cfn-slz-xnv-lza
     - 🇲🇾 Malaysia Secure Landing Zone in LZA UC https://github.com/badenh/malaysia-cfn-slz-xnv-lza  
   - `lzareplgen`: replacements file generator for LZA UC https://github.com/badenh/lzaucreplgen
+  - `tsese2lzauc`: conversion of Trusted Secure Enclaves - Sensitive Edition (TSE-SE) to an LZA Universal Configuration industry profile https://github.com/badenh/tsese2lzauc
 - AWS Region-Service Availability
   - ARSM: AWS Region-Service Matrix https://arsm.info - there's a few of these around but this was built using a specific combination of different AWS sources and to get a feed of reliable information to bootstrap other tools
    - AWS Local Zones Analysis https://gist.github.com/badenh/a86b8fba121bea8f3f0330c25dc7b610
